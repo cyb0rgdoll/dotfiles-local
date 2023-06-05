@@ -9,7 +9,7 @@ my configs and moddified zsh shell along with powerlevel10k theme, powerline fon
 zsh-syntax-highlighting - syntax highlighting for ZSH in standard repos
 autojump - jump to directories with j or jc for child or jo to open in file manager
 zsh-autosuggestions - Suggestions based on your history
-
+zsh-autocompletions - automatically complete your words without typing every letter 
 Powerline - a statusline plugin for vim, and provides statuslines and prompts for several other applications.
 
 ```
@@ -17,7 +17,12 @@ Powerline - a statusline plugin for vim, and provides statuslines and prompts fo
 ## *Commands*
 
 ```pk10 configure```
-```omz```
+
+```omz``` - change themes, enable plugins etc
+
+```neofetch``` - overview of your system 
+
+
 
 If you are running a Debian or Ubuntu based Linux distribution, there should be a package available to install the Powerline Fonts with the following command: 
 
