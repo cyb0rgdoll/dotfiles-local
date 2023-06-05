@@ -4,7 +4,7 @@ my configs and moddified zsh shell along with powerlevel10k theme, powerline fon
 
 ## *Features*
 
-```oh my zsh - one of the best and easy zsh framework with plugins included:```
+oh my zsh - one of the best and easy zsh framework with plugins included:
 
 zsh-syntax-highlighting - syntax highlighting for ZSH in standard repos
 
@@ -16,7 +16,7 @@ zsh-autocompletions - automatically complete your words without typing every let
 
 Powerline - a statusline plugin for vim, and provides statuslines and prompts for several other applications.
 
-```
+
 
 ## *Commands*
 
